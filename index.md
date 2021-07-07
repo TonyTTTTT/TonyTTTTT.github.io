@@ -1,7 +1,7 @@
 # Welcome to Tony's profile
-Initializing this page at 2021/7/7\n
-**Name** : TonyTsou\n
-**Birth** : 1998/12/31\n
+- Initializing this page at 2021/7/7
+- **Name** : TonyTsou
+- **Birth** : 1998/12/31
 
 ## Markdown for Github
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
