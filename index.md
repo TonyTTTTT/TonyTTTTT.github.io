@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Home"
 permalink: /Home
+---
+
 # Profile
 - **Name** : TonyTsou
 - **Birth** : 1998/12/31
