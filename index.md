@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 permalink: /
-theme: jekyll-theme-hacker
+
 ---
 
 # Profile
