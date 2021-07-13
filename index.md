@@ -1,8 +1,4 @@
----
-layout: page
-title: "Home"
-permalink: /
----
+
 
 # Profile
 - **Name** : TonyTsou
