@@ -1,7 +1,3 @@
-
-# GG
-
-## Profile
 - **Name** : TonyTsou
 - **Birth** : 1998/12/31
 
