@@ -1,16 +1,9 @@
-- **Name** : TonyTsou
+- **Name** : Yung-Lin Tsou
 - **Birth** : 1998/12/31
 
-## Markdown for Github
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
-
-## Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-- Initializing this page at 2021/7/7
 
 ## Please check this link for more project info.
 [Testing](https://TonyTTTTT.github.io/test)
+
+- This page had been created at 2021/7/7
