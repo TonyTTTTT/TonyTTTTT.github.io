@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Test
-permalink: /test
 ---
 
 # This page is for testing
